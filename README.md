@@ -4,7 +4,7 @@
 
 # Click on below kaggle image to view the Notebook
 
-<a href = "https://www.kaggle.com/dhavaltharkar/breast-cancer-detection/edit"> <img src ="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/kaggle.png" wifth = "59" height = "20"> </a>
+<a href = "https://www.kaggle.com/code/dhavaltharkar/breast-cancer-detection"> <img src ="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/kaggle.png" wifth = "59" height = "20"> </a>
 
 ## Dataset Information
 
