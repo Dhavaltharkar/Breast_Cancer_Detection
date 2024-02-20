@@ -1,6 +1,13 @@
 # Breast_Cancer_Detection
 
-# About Dataset
+![Pandas logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/pandas.svg) ![sklearn](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/scikit.svg) ![matplotlib logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/matplotlib.svg) ![seaborn](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/seaborn.svg)
+
+# Click on below kaggle image to view the Notebook
+
+<a href = "https://www.kaggle.com/dhavaltharkar/breast-cancer-detection/edit"> <img src ="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/kaggle.png" wifth = "59" height = "20"> </a>
+
+## Dataset Information
+
 Samples arrive periodically as Dr. Wolberg reports his clinical cases. The database therefore reflects this chronological grouping of the data. This grouping information appears immediately below, having been removed from the data itself:
 
 Group 1: 367 instances (January 1989)
